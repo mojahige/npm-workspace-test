@@ -1,9 +1,8 @@
 {
   "extends": "@catalyst-component-test/tsconfig",
   "compilerOptions": {
-    "outDir": "lib",
-    "rootDir": "src",
     "moduleResolution": "node",
-    "experimentalDecorators": true
+    "experimentalDecorators": true,
+    "declaration": true
   }
 }
