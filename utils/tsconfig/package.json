@@ -1,5 +1,5 @@
 {
-  "name": "@catalyst-component-test/tsconfig",
+  "name": "@npm-workspace-test/tsconfig",
   "private": true,
   "description": "TypeScript config",
   "scripts": {

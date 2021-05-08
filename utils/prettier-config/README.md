@@ -1,1 +1,1 @@
-# @catalyst-component-test/prettier-config
+# @npm-workspace-test/prettier-config

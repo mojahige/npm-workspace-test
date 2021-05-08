@@ -1,5 +1,5 @@
 {
-  "name": "@catalyst-component-test/prettier-config",
+  "name": "@npm-workspace-test/prettier-config",
   "private": true,
   "description": "Prettier config",
   "scripts": {

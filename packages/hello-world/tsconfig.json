@@ -1,5 +1,5 @@
 {
-  "extends": "@catalyst-component-test/component-tsconfig",
+  "extends": "@npm-workspace-test/component-tsconfig",
   "compilerOptions": {
     "rootDir": "src"
   }

@@ -1,5 +1,5 @@
 import { html } from 'lit-html';
-import '@catalyst-component-test/hello-world';
+import '@npm-workspace-test/hello-world';
 
 export default {
   title: 'CatalystComponents/HelloWorld ',

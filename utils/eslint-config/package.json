@@ -1,5 +1,5 @@
 {
-  "name": "@catalyst-component-test/eslint-config",
+  "name": "@npm-workspace-test/eslint-config",
   "private": true,
   "description": "ESLint config",
   "scripts": {

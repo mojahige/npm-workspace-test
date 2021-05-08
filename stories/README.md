@@ -1,4 +1,4 @@
-# @catalyst-component-test/stories
+# @npm-workspace-test/stories
 
 ## Use
 

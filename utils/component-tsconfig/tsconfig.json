@@ -1,5 +1,5 @@
 {
-  "extends": "@catalyst-component-test/tsconfig",
+  "extends": "@npm-workspace-test/tsconfig",
   "compilerOptions": {
     "strict": true,
     "strictPropertyInitialization": false,

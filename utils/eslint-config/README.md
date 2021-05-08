@@ -1,1 +1,1 @@
-# @catalyst-component-test/eslint-config
+# @npm-workspace-test/eslint-config

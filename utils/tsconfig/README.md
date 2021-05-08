@@ -1,1 +1,1 @@
-# @catalyst-component-test/tsconfig
+# @npm-workspace-test/tsconfig

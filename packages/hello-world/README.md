@@ -1,4 +1,4 @@
-# @catalyst-component-test/hello-world
+# @npm-workspace-test/hello-world
 
 ## Use
 

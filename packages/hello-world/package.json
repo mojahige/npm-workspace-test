@@ -1,5 +1,5 @@
 {
-  "name": "@catalyst-component-test/hello-world",
+  "name": "@npm-workspace-test/hello-world",
   "private": true,
   "description": "hello-world component",
   "main": "lib/index.js",
