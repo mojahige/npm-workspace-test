@@ -1,10 +1,11 @@
 {
-  "name": "tsconfig",
+  "name": "@catalyst-component-test/tsconfig",
   "private": true,
-  "description": "",
+  "description": "TypeScript config",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "main": "tsconfig.json",
   "author": "mojahige",
   "license": "UNLICENSED"
 }

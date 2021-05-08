@@ -1,8 +1,13 @@
 {
-  "name": "hello-world",
+  "name": "@catalyst-component-test/hello-world",
   "private": true,
+  "description": "hello-world component",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "eslint": "eslint src/** --ext .js,.ts",
+    "eslint:fix": "eslint --fix src/** --ext .js,.ts",
+    "prettier": "prettier --write './src/**/*.{js,ts}'",
+    "prettier:write": "prettier --write './src/**/*.{js,ts}'"
   },
   "author": "mojahige",
   "license": "UNLICENSED"

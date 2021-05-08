@@ -1,0 +1,7 @@
+{
+  "extends": "@catalyst-component-test/tsconfig",
+  "compilerOptions": {
+    "outDir": "lib",
+    "rootDir": "src"
+  }
+}

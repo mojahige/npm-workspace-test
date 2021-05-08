@@ -1,12 +1,13 @@
 {
-  "name": "eslint-config",
+  "name": "@catalyst-component-test/eslint-config",
   "private": true,
-  "description": "",
+  "description": "ESLint config",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "mojahige",
   "license": "UNLICENSED",
+  "main": "index.js",
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "^4.22.1",
     "@typescript-eslint/parser": "^4.22.1",
