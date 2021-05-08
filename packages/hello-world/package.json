@@ -6,6 +6,11 @@
   "typings": "lib/index.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
+    "clean": "rimraf lib",
+    "build": "npm run clean && esbuild src/index.ts --bundle --outdir=lib",
+    "build:production": "npm run clean && esbuild src/index.ts --bundle --outdir=lib --format=esm --minify --keep-names && npm run decl",
+    "decl": "tsc --emitDeclarationOnly --outDir lib",
+    "fix": "npm run prettier:write && npm run eslint:fix",
     "eslint": "eslint src/** --ext .js,.ts",
     "eslint:fix": "eslint --fix src/** --ext .js,.ts",
     "prettier": "prettier --write './src/**/*.{js,ts}'",

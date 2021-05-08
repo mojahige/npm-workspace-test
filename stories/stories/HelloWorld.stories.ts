@@ -2,8 +2,8 @@ import { html } from 'lit-html';
 import '@catalyst-component-test/hello-world';
 
 export default {
-  title: 'Example/HelloWorld',
+  title: 'CatalystComponents/HelloWorld ',
   argTypes: {},
 };
 
-export const Primary = () => html`<hello-world></hello-world>`;
+export const Default = () => html`<hello-world></hello-world>`;
