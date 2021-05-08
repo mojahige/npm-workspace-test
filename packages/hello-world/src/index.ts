@@ -1,3 +1,8 @@
-var hoge = "hoge";
+import {controller} from '@github/catalyst'
 
-console.log('hoge')
+@controller
+class HelloWorldElement extends HTMLElement {
+  connectedCallback() {
+    this.innerHTML = 'Hello World!'
+  }
+}

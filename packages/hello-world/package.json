@@ -2,6 +2,8 @@
   "name": "@catalyst-component-test/hello-world",
   "private": true,
   "description": "hello-world component",
+  "main": "lib/index.js",
+  "typings": "lib/index.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "eslint": "eslint src/** --ext .js,.ts",

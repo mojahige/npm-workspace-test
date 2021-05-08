@@ -8,7 +8,8 @@
   "license": "UNLICENSED",
   "workspaces": [
     "packages/*",
-    "utils/*"
+    "utils/*",
+    "stories"
   ],
   "devDependencies": {
     "@github/catalyst": "^1.1.3",
